@@ -1,0 +1,14 @@
+C:\Users\ronal\source\repos\FastRent\bin\Debug\net8.0\FastRent.exe
+C:\Users\ronal\source\repos\FastRent\bin\Debug\net8.0\FastRent.deps.json
+C:\Users\ronal\source\repos\FastRent\bin\Debug\net8.0\FastRent.runtimeconfig.json
+C:\Users\ronal\source\repos\FastRent\bin\Debug\net8.0\FastRent.dll
+C:\Users\ronal\source\repos\FastRent\bin\Debug\net8.0\FastRent.pdb
+C:\Users\ronal\source\repos\FastRent\obj\Debug\net8.0\FastRent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\source\repos\FastRent\obj\Debug\net8.0\FastRent.AssemblyInfoInputs.cache
+C:\Users\ronal\source\repos\FastRent\obj\Debug\net8.0\FastRent.AssemblyInfo.cs
+C:\Users\ronal\source\repos\FastRent\obj\Debug\net8.0\FastRent.csproj.CoreCompileInputs.cache
+C:\Users\ronal\source\repos\FastRent\obj\Debug\net8.0\FastRent.dll
+C:\Users\ronal\source\repos\FastRent\obj\Debug\net8.0\refint\FastRent.dll
+C:\Users\ronal\source\repos\FastRent\obj\Debug\net8.0\FastRent.pdb
+C:\Users\ronal\source\repos\FastRent\obj\Debug\net8.0\FastRent.genruntimeconfig.cache
+C:\Users\ronal\source\repos\FastRent\obj\Debug\net8.0\ref\FastRent.dll
